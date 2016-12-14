@@ -1,4 +1,4 @@
-# MvpSample
+# Android-MVP-Sample
 一个简单的、遵循Google的 [todomvp](https://github.com/googlesamples/android-architecture/tree/todo-mvp/
 ) 样式的Android MVP架构的demo。    
 

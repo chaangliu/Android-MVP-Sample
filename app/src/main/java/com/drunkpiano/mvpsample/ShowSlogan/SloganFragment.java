@@ -53,7 +53,9 @@ public class SloganFragment extends Fragment implements SloganContract.View {
         mFab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                //通知Presenter更新Model
                 mPresenter.updateCount(++mCount);
+                //展示数据
                 mSloganText.setText(mSlogan);
             }
         });
