@@ -14,7 +14,7 @@ It's simple to understand the critical point of MVP: View doesn't contact wiht M
 ---
 
 It looks like this:    
-![eg](https://github.com/LarryLawrence/SimpleBottomNavigationBar/blob/master/screenshots/Screenshot_20161214-200815.png)    
+![eg](https://github.com/LarryLawrence/Android-MVP-Sample/blob/master/screenshots/Screenshot_20161214-200815.png)    
 
 Just click the floating action button in the bottom right corner, the ```presenter``` is gonna update the ```model```and the ```view```.
 
